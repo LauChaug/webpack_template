@@ -1,6 +1,6 @@
 # webpack_template
-# 在Node.js环境下运行一下命令
-# setup
+# 在Node.js环境下运行以下命令
+
 ### 安装依赖 (仅安装一次)
 npm install
 或 yarn
